@@ -20,11 +20,11 @@ This project is a recreation of the classic Simon game, where players must remem
 
 - Interactive gameplay with visual and audio feedback
 - Increasing difficulty with each round
-- Responsive design for both desktop and mobile devices
+- Responsive design for desktop
 
 ## How to Play
 
-1. Press the "Start" button to begin the game.
+1. Press any key to begin the game.
 2. Watch the sequence of colors that light up and listen to the sounds.
 3. Repeat the sequence by clicking on the colored buttons in the correct order.
 4. The sequence will get longer with each round.
@@ -36,7 +36,7 @@ To run the Simon game locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/simon-game.git
+   git clone https://github.com/udayxgoel/simon-game.git
 
 2. Navigate to the project directory:
     ```sh
@@ -46,7 +46,7 @@ To run the Simon game locally, follow these steps:
 
 ## Usage
 
-You can also play the Simon game directly from the GitHub Pages link.
+You can also play the Simon game online directly from this link - 
 
 ## Contributing
 
