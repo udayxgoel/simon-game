@@ -10,7 +10,7 @@ A classic Simon memory game built with HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Thankyou](#thankyou)
 
 ## Introduction
 
