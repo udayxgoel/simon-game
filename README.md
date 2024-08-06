@@ -46,7 +46,7 @@ To run the Simon game locally, follow these steps:
 
 ## Usage
 
-You can also play the Simon game online directly from this link - 
+You can also play the Simon game online directly from this link - https://udayxgoel.github.io/simon-game/
 
 ## Contributing
 
